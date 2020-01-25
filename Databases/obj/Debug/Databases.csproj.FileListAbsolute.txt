@@ -1,0 +1,11 @@
+C:\Users\Danya\source\repos\Databases\Databases\bin\Debug\Databases.exe.config
+C:\Users\Danya\source\repos\Databases\Databases\bin\Debug\Databases.exe
+C:\Users\Danya\source\repos\Databases\Databases\bin\Debug\Databases.pdb
+C:\Users\Danya\source\repos\Databases\Databases\bin\Debug\EntityFramework.dll
+C:\Users\Danya\source\repos\Databases\Databases\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danya\source\repos\Databases\Databases\bin\Debug\EntityFramework.xml
+C:\Users\Danya\source\repos\Databases\Databases\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danya\source\repos\Databases\Databases\obj\Debug\Databases.csprojAssemblyReference.cache
+C:\Users\Danya\source\repos\Databases\Databases\obj\Debug\Databases.csproj.CopyComplete
+C:\Users\Danya\source\repos\Databases\Databases\obj\Debug\Databases.exe
+C:\Users\Danya\source\repos\Databases\Databases\obj\Debug\Databases.pdb
